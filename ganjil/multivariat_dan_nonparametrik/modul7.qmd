@@ -1,7 +1,7 @@
 ---
 title: "Pertemuan 7: MANOVA"
 subtitle: "Pengantar Multivariat"
-image: static\fstat_anova.png
+image: https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/fstat_anova.png
 description: "Offline di Departemen Matematika"
 date: 11/26/2024
 page-navigation: true
@@ -18,7 +18,7 @@ $H_1: \text{Tidak Demikian}$
 
 Statistik Uji:
 
-![](static\fstat_anova.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/fstat_anova.png)
 
 Aturan Penolakan:
 

@@ -1,7 +1,7 @@
 ---
 title: "Pertemuan 2: Uji Binomial, Kuantil, Chi Square, Kolmogorov Smirnov & Sign"
 subtitle: "Statistika Nonparametrik"
-image: static\nonparcover.jpeg
+image: https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/nonparcover.jpeg
 description: "Offline di Departemen Matematika"
 date: 10/01/2024
 page-navigation: true
@@ -10,9 +10,9 @@ format: html
 
 # Tabel Guide Uji Nonparametrik
 
-![](static\tabelconover1.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/tabelconover1.png)
 
-![](static\tabelconover2.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/tabelconover2.png)
 
 # Uji Binomial
 
@@ -159,7 +159,7 @@ quantile.test(x, 103, quantile = 0.5, alternative = 'two.sided')
 
 ## Data
 
-![](static\chisqdata.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/chisqdata.png)
 
 ## Asumsi
 
@@ -168,7 +168,7 @@ quantile.test(x, 103, quantile = 0.5, alternative = 'two.sided')
 
 ## Statistik Uji
 
-![](static\chisqstat.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/chisqstat.png)
 
 dengan
 

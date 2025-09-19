@@ -1,7 +1,7 @@
 ---
 title: "Pertemuan 3: Karakteristik Data Multivariat"
 subtitle: "Pengantar Multivariat"
-image: static\mat_cov.png
+image: https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/mat_cov.png
 description: "Offline di Departemen Matematika"
 date: 10/28/2024
 page-navigation: true
@@ -69,7 +69,7 @@ cor(Y)
 
 Tinjau data dari tabel 3.5 buku rencher (Relative Weight, Blood Glucose, and Insulin Levels)
 
-![](static\t3_5.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/t3_5.png)
 
 ```{r}
 T3_5 <- read.table('https://raw.githubusercontent.com/farhanage/dataset-for-study/refs/heads/main/Analisis%20Multivariat/T3_5_DIABETES.DAT')
@@ -129,7 +129,7 @@ S_xy <- S[3:5, 1:2]; S_xy
 S_yx <- S[1:2, 3:5]; S_yx
 ```
 
-![](static\mat_cov.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/mat_cov.png)
 
 ## Matriks Korelasi Subset
 

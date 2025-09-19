@@ -1,7 +1,7 @@
 ---
 title: "Pertemuan 1: Aljabar Matriks di R"
 subtitle: "Pengantar Multivariat"
-image: static\latsol.png
+image: https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/latsol.png
 description: "Offline di Departemen Matematika"
 date: 09/24/2024
 page-navigation: true
@@ -347,7 +347,7 @@ round(A_gs %*% t(A_gs))
 
 Diberikan matriks berikut
 
-![](static/latsol.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/latsol.png)
 
 Carilah nilai:
 

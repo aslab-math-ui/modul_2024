@@ -1,7 +1,7 @@
 ---
 title: "Pertemuan 8: Uji Cramer von Mises, Friedman, Quade, Kruskal Wallis, Correlation, Regresi Nonparametrik, Regresi Monotonik, Kernel Smoothing, Regresi Spline"
 subtitle: "Statistika Nonparametrik"
-image: static\regresi_monoton.png
+image: https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/regresi_monoton.png
 description: "Offline di Departemen Matematika"
 date: 12/03/2024
 page-navigation: true
@@ -10,9 +10,9 @@ format: html
 
 # Tabel Guide Uji Nonparametrik
 
-![](static\tabelconover1.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/tabelconover1.png)
 
-![](static\tabelconover2.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/tabelconover2.png)
 
 # Uji Cramer von Mises
 
@@ -55,7 +55,7 @@ Kesimpulannya?
 
 Untuk kelompok tujuh siswa, denyut nadi (per menit) diukur sebelum latihan (I), segera setelah latihan (II), dan 5 menit setelah latihan (III). Data diberikan pada di bawah. Gunakan uji Friedman untuk menguji perbedaan antara denyut nadi pada tiga kesempatan. 
 
-![](static\Friedman_table.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/Friedman_table.png)
 
 ```{r}
 Dataset_Friedmann <- data.frame(Student = c('A','A','A','B','B','B','C','C','C','D','D','D','E','E','E','F','F','F','G','G','G'),
@@ -113,7 +113,7 @@ Hasil menunjukkan pasangan grup yang berbeda (atau tidak berbeda) secara signifi
 
 Lubischew (1962) memberikan pengukuran lebar kepala maksimum dalam satuan 0,01 mm untuk tiga spesies Chaetocnema. Sebagian dari datanya diberikan di bawah ini. Gunakan uji Kruskal–Wallis untuk melihat apakah ada perbedaan lebar kepala untuk ketiga spesies Chaetocnema. 
 
-![](static\Kruskal_wallis_table.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/Kruskal_wallis_table.png)
 
 ```{r}
 df <- data.frame (Species  = rep(c("Species_1","Species_2","Species_3"),times=c(10,11,8)),
@@ -142,7 +142,7 @@ Kesimpulannya
 
 Bardsley dan Chambers (1984) memiliki jumlah sapi ternak (potong) dan domba pada 19 peternakan besar di suatu wilayah. Apakah ada bukti korelasi antara sapi dan domba? 
 
-![](static/Correlation_table.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/Correlation_table.png)
 
 ```{r}
 df <- data.frame (Cattle  = c(41,0,42,15,47,0,0,0,56,67,707,368,231,104,132,200,172,146,0),
@@ -421,7 +421,7 @@ legend("topright", legend = c("Original Data", "Fitted Curve"), col = c("blue", 
 
 ```
 
-![](static/regresi_monoton.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/regresi_monoton.png)
 
 # Kernel Smoothing
 

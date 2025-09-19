@@ -1,7 +1,7 @@
 ---
 title: "Pertemuan 4: Uji McNemar, Cox Stuart, Wilcoxon"
 subtitle: "Statistika Nonparametrik"
-image: static\tabelconover1.png
+image: https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/tabelconover1.png
 description: "Offline di Departemen Matematika"
 date: 11/04/2024
 page-navigation: true
@@ -10,15 +10,15 @@ format: html
 
 # Tabel Guide Uji Nonparametrik
 
-![](static\tabelconover1.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/tabelconover1.png)
 
-![](static\tabelconover2.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/tabelconover2.png)
 
 # Uji McNemar
 
 1. Anggota klub pendakian gunung telah lama berdebat tentang mana yang lebih sulit di antara 2 jalur panjat tebing. Berharap untuk menyelesaikan argumen satu anggota memeriksa buku catatan klub. Catatan ini berisi apakah tiap anggota berhasil suatu pendakian. Log menunjukkan bahwa 108 anggota telah mencoba kedua pendakian dengan hasil yang dirangkum dalam Tabel. Apakah ada bukti bahwa satu pendakian lebih sulit dari lainnya?  
 
-![](static\latsol_mcnemar.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/latsol_mcnemar.png)
 
 ```{r}
 climb=matrix(c(73, 14, 9, 12), byrow=TRUE, nrow=2, ncol=2)
@@ -176,7 +176,7 @@ affected reaction time. Each driver's reaction time was measured in a laboratory
 drinking a specified amount of a beverage containing alcohol. The reaction times in seconds were as 
 follows
 
-![](static/latsol_wilcoxon.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/multivariat_dan_nonparametrik/static/latsol_wilcoxon.png)
 
 Does alcohol affect reaction time? 
 
