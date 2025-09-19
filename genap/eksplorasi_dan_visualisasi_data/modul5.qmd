@@ -1,6 +1,6 @@
 ---
 title: "Pertemuan 5 : Time Series Visualization"
-image: static\images\timeseries.png
+image: https://raw.githubusercontent.com/aslab-math-ui/asset/main/eksplorasi_dan_visualisasi_data/static/images/timeseries.png
 description: "Handling time series data"
 date: 05/07/2024
 page-navigation: true

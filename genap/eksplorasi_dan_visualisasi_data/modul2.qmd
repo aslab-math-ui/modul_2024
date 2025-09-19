@@ -1,6 +1,6 @@
 ---
 title: "Pertemuan 2 : Data Cleaning with Pandas"
-image: static\images\pandas.jpg
+image: https://raw.githubusercontent.com/aslab-math-ui/asset/main/eksplorasi_dan_visualisasi_data/static/images/pandas.jpg
 description: "Handling Dirty Data using Pandas"
 date: 04/15/2024
 page-navigation: true

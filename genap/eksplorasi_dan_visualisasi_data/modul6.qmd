@@ -1,6 +1,6 @@
 ---
 title: "Pertemuan 6 : Interactive Data Visualization (plotly)"
-image: static\images\plotly.png
+image: https://raw.githubusercontent.com/aslab-math-ui/asset/main/eksplorasi_dan_visualisasi_data/static/images/plotly.png
 description: "Interactive Data Visualization using Plotly"
 date: 05/14/2024
 page-navigation: true

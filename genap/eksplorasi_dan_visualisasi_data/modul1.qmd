@@ -1,7 +1,7 @@
 ---
 title: "Pertemuan 1 : Python for Data Analysis"
 subtitle: "Intro to Pandas"
-image: static\images\eda_py_img.png
+image: https://raw.githubusercontent.com/aslab-math-ui/asset/main/eksplorasi_dan_visualisasi_data/static/images/eda_py_img.png
 description: "Offline di Departemen Matematika: sesi 1 di lab komputer D.311, sesi 2 di lab statistika D.406"
 date: 02/27/2024
 page-navigation: true
@@ -203,7 +203,7 @@ data_series
 **DataFrame** adalah struktur data 2 dimensi yang terdiri atas baris dan kolom (disebut juga tabel). Kita dapat melihat dataframe sebagai gabungan dari 2 atau lebih series.
 </div>
 
-![](static\images\series_dataframe.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/eksplorasi_dan_visualisasi_data/static/images/series_dataframe.png)
 
 <div style='text-align: justify;'>
 
@@ -362,7 +362,7 @@ obj.index[1] = 'd'
 
 Index object juga memiliki beberapa attribute dan methods. Beberapa diantaranya :
 
-![](static\images\index_attr.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/eksplorasi_dan_visualisasi_data/static/images/index_attr.png)
 </div>
 
 ## Basic Functionality

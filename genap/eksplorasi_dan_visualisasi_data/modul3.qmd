@@ -1,6 +1,7 @@
 ---
 title: "Pertemuan 3 : Simple Data Visualization (matplotlib)"
-image: ../../../../../../test_asset_aslab\eda_py_img0.png
+image: https://raw.githubusercontent.com/aslab-math-ui/asset/main/eksplorasi_dan_visualisasi_data/static/images/eda_py_img0.png
+
 description: "Data visualization in python using matplotlib (pyplot)"
 date: 04/23/2024
 page-navigation: true
@@ -187,7 +188,7 @@ Untuk plot lainnya, silakan telusuri dokumentasi dari library matplotlib yang da
 
 Pembuatan suatu plot menggunakan library matplotlib akan menghasilkan suatu ***figure*** yang memiliki beberapa komponen di dalamnya.
 
-![](static\images\anatomy of figures.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/eksplorasi_dan_visualisasi_data/static/images/anatomy_of_figures.png)
 
 Berikut cara membuat suatu figure menggunakan matplotlib
 </div>
