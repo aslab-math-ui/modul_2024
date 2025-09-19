@@ -6,4 +6,4 @@ listing:
     fields: [image, title, date]
 ---
 
-Kembali ke [Praktikum](../../../../praktikum.qmd)
+Kembali ke [Praktikum](../../../../semuahalaman/praktikum.qmd)

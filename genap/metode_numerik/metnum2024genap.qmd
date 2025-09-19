@@ -2,7 +2,7 @@
 title: "Praktikum Metode Numerik 2024 Genap (Kurikulum 2020)"
 ---
 
-Kembali ke [Praktikum](../../../../praktikum.qmd)
+Kembali ke [Praktikum](../../../../semuahalaman/praktikum.qmd)
 
 # Timeline
 

@@ -17,7 +17,7 @@ Untuk pertemuan kali ini, kita akan mulai membahas lebih lanjut tentang pengguna
 
 * [Iris.xlsx](./Iris.xlsx)
 
-Kebetulan, materi modul kali ini adalah revisi dari [modul PSD tahun lalu](../../../2023/ganjil/psd/Pekan%201/modul1.qmd). Silakan intip kalau mau :)
+Kebetulan, materi modul kali ini adalah revisi dari [modul PSD tahun lalu](../../../2023/ganjil/pengantar_sains_data/Pekan%201/modul1.qmd). Silakan intip kalau mau :)
 
 # Operasi Dasar
 

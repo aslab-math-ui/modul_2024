@@ -8,6 +8,6 @@ listing:
     fields: [title, author, date]
 ---
 
-Kembali ke [Praktikum](../../../../praktikum.qmd)
+Kembali ke [Praktikum](../../../../semuahalaman/praktikum.qmd)
 
 Berikut ini, asisten lab (aslab) untuk mata kuliah Praktikum Algoritma dan Pemrograman telah mengumpulkan semua bahan ajar/materi terkait, baik yang disiapkan oleh dosen maupun oleh aslab.
