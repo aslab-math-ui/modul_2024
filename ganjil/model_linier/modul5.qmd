@@ -1,7 +1,7 @@
 ---
 title: "Studi Kasus dplyr"
 subtitle: "Pre-processing dengan dplyr"
-image: static\Plot regresi.png
+image: https://raw.githubusercontent.com/aslab-math-ui/asset/main/model_linier/static/plot_regresi.png
 description: "Offline di Departemen Matematika"
 date: 11/18/2024
 page-navigation: true
@@ -507,7 +507,7 @@ Meskipun kedua bentuk (menggunakan `pipe` atau tanpa `pipe`) memiliki kelebihan 
 #### Menambahkan Pipe ke Kode:
 Di RStudio, kamu bisa menambahkan pipe dengan menggunakan shortcut keyboard bawaan Ctrl/Cmd + Shift + M. Ini akan menyisipkan simbol pipe (|>) secara otomatis ke dalam kode kamu.
 
-![Gambar 1. Untuk memasukkan |>, pastikan “Use native pipe operator” option is checked.](./static/shortcut-pipe.png)
+![Gambar 1. Untuk memasukkan |>, pastikan “Use native pipe operator” option is checked.](https://raw.githubusercontent.com/aslab-math-ui/asset/main/model_linier/static/shortcut-pipe.png)
 
 ::: {.callout-caution collapse="true"}
 #### Perbedaan Antara `%>%` dan `|>`:
@@ -801,8 +801,8 @@ hasil RMSE kalian, semakin tinggi poin yang akan kalian peroleh.
 ## Import Data
 
 ```{r}
-train <- read.csv("https://raw.githubusercontent.com/aslab-math-ui/modul-prak/refs/heads/main/semuahalaman/modulprak/2024/ganjil/molin/datasets/train.csv")
-test <- read.csv("https://raw.githubusercontent.com/aslab-math-ui/modul-prak/refs/heads/main/semuahalaman/modulprak/2024/ganjil/molin/datasets/test.csv")
+train <- read.csv("https://raw.githubusercontent.com/aslab-math-ui/asset/main/model_linier/datasets/train.csv")
+test <- read.csv("https://raw.githubusercontent.com/aslab-math-ui/asset/main/model_linier/datasets/test.csv")
 ```
 
 -   `train` : digunakan untuk melatih model , sekaligus mengevaluasi

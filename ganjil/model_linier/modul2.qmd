@@ -1,7 +1,7 @@
 ---
 title: "Uji Asumsi Regresi Linear Sederhana"
 subtitle: "Simple Linear Regression"
-image: static\Plot regresi.png
+image: https://raw.githubusercontent.com/aslab-math-ui/asset/main/model_linier/static/plot_regresi.png
 description: "Offline di Departemen Matematika"
 date: 09/30/2024
 page-navigation: true
