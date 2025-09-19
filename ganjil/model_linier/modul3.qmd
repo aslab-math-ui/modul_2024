@@ -124,7 +124,7 @@ summary(model4)
 # Regresi Linear Polinomial
 
 ```{r}
-datareg <- read.csv("https://raw.githubusercontent.com/aslab-math-ui/modul-prak/refs/heads/main/semuahalaman/modulprak/2024/ganjil/molin/datasets/datareg.csv")
+datareg <- read.csv("https://raw.githubusercontent.com/aslab-math-ui/asset/main/model_linier/datasets/datareg.csv")
 head(datareg)
 ```
 
@@ -184,7 +184,7 @@ $$𝑌=𝛽_0 +𝛽_1 𝑋_1 + 𝛽_2𝑋_2 +𝛽_3(𝑋_1×𝑋_2)+𝜖$$
 Koefisien $𝛽_3$ menunjukkan efek interaksi antara $𝑋_1$ dan $𝑋_2$ .
 
 ```{r}
-nilai_UTS <- read.csv("https://raw.githubusercontent.com/aslab-math-ui/modul-prak/refs/heads/main/semuahalaman/modulprak/2024/ganjil/molin/datasets/nilai_UTS.csv")
+nilai_UTS <- read.csv("https://raw.githubusercontent.com/aslab-math-ui/asset/main/model_linier/datasets/nilai_UTS.csv")
 head(nilai_UTS)
 str(nilai_UTS)
 
