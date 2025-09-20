@@ -215,13 +215,13 @@ Ada baiknya, *file* `.csv` dan/atau *file* `.xlsx` yang ingin di-*import* dileta
 Dengan demikian, untuk meng-*import* `Iris.csv`, kalian tinggal mengetik
 
 ```{r}
-df1 <- read.csv("Iris.csv")
+df1 <- read.csv("https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/datasets/Iris.csv")
 ```
 
 dan untuk meng-*import* `Iris.xlsx`, kalian tinggal mengetik
 
 ```{r}
-df2 <- read_excel("Iris.xlsx")
+df2 <- read_excel("./Iris.xlsx")
 ```
 
 Beberapa catatan tentang kode di atas:
