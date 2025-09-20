@@ -2,7 +2,7 @@
 title: "(Pertemuan 02) Excel: Table Creation, Pivot Table, Visualizations"
 subtitle: "Excel: Pivot Table, Visualiations"
 description: "Offline di Departemen Matematika"
-image: "static/excel_pivot_viz.png"
+image: https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/excel_pivot_viz.png
 date: 09/23/2024
 page-navigation: true
 format: html
@@ -10,4 +10,4 @@ format: html
 
 Kembali ke [Pengantar Sains Data](./psd2024.qmd)
 
-Silakan unduh *worksheet* berikut: [Worksheet Pertemuan 2](./worksheet_pertemuan2.xlsx)
+Silakan unduh *worksheet* berikut: [Worksheet Pertemuan 2](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/datasets/worksheet_pertemuan2.xlsx)

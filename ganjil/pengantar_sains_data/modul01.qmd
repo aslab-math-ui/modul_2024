@@ -1,7 +1,7 @@
 ---
 title: "(Pertemuan 01) Panduan Instalasi R dan Excel + Pengenalan R"
 subtitle: "Intro to R and Excel"
-image: static\r_excel.png
+image: https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/r_excel.png
 description: "Offline di Departemen Matematika"
 date: 09/19/2024
 page-navigation: true
@@ -40,7 +40,7 @@ Setelah aktivasi, barulah produk yang diinginkan bisa di-*download* lalu diinsta
 
 Informasi lebih lanjut juga bisa dilihat di tautan resmi berikut: <https://dsti.ui.ac.id/mulai-dengan-office-365/>
 
-![](static/link_dsti_office_365.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/link_dsti_office_365.png)
 
 ## Aktivasi Microsoft Office dengan email UI dan *login*
 
@@ -48,7 +48,7 @@ Informasi lebih lanjut juga bisa dilihat di tautan resmi berikut: <https://dsti.
 
     Tampilannya seperti berikut:
 
-    ![](static/aktivasi_microsoft_01.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/aktivasi_microsoft_01.png)
 
 2. Masukkan *username* SSO UI serta *password* milik pribadi, lalu tekan "Login". Akun SSO yang dimaksud adalah akun yang sama yang biasa digunakan untuk *login* ke SIAK NG, ke EMAS2, dan sebagainya, yaitu tanpa akhiran `@ui.ac.id` maupun akhiran `@office.ui.ac.id`
 
@@ -56,11 +56,11 @@ Informasi lebih lanjut juga bisa dilihat di tautan resmi berikut: <https://dsti.
 
     Apabila perlu *login*, seperti pada tampilan berikut, silakan *login* dengan akun SSO yang sama seperti langkah sebelumnya.
 
-    ![](static/aktivasi_microsoft_03.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/aktivasi_microsoft_03.png)
 
 4. Untuk halaman ini, bebas memilih No atau Yes. Sebaiknya pilih Yes agar tidak terlalu sering *login* ke depannya.
 
-    ![](static/aktivasi_microsoft_04.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/aktivasi_microsoft_04.png)
 
     *Login* berhasil.
 
@@ -70,25 +70,25 @@ Informasi lebih lanjut juga bisa dilihat di tautan resmi berikut: <https://dsti.
 
 2. Pilih "Install and more", lalu tekan "Install Microsoft 365 apps", seperti berikut.
 
-    ![](static/download_excel_02.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_excel_02.png)
 
 3. Akan muncul tampilan seperti berikut. Tekan tombol "Install Office" untuk men-*download* suatu *installer* berukuran sekitar 3 GB.
 
-    ![](static/download_excel_03.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_excel_03.png)
 
 4. Ikuti petunjuk instalasi yang diberikan. Pastikan Excel terpilih sebagai salah satu aplikasi yang ingin diinstal.
 
 5. Setelah instalasi selesai, bukalah Excel. Akan muncul tampilan seperti berikut. Tekan tombol "Sign in".
 
-    ![](static/download_excel_05.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_excel_05.png)
 
 6. Setelah itu, muncul tampilan *login* seperti berikut. Masukkan email UI, tetapi dengan akhiran `@office.ui.ac.id`, lalu tekan "Next"
 
-    ![](static/download_excel_06.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_excel_06.png)
 
 7. Akan muncul tampilan *login* SSO, seperti berikut. Gunakan *username* SSO UI dan *password*, lalu tekan "Login"
 
-    ![](static/download_excel_07.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_excel_07.png)
 
     Selamat, *login* berhasil. Excel sudah bisa digunakan, bahkan *file* yang disimpan di OneDrive juga bisa diakses.
 
@@ -96,7 +96,7 @@ Informasi lebih lanjut juga bisa dilihat di tautan resmi berikut: <https://dsti.
 
 1. Kunjungi tautan <https://cran.r-project.org/> (atau coba *searching* "CRAN R" dan pencet *website* pertama yang muncul). Isinya akan seperti berikut:
 
-    ![](static/download_r_01.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_01.png)
 
 2. Pilih tautan yang sesuai dengan *operating system* (sistem operasi) dari *laptop* atau perangkat yang sedang digunakan.
 
@@ -110,11 +110,11 @@ Langkah ketiga dan seterusnya tergantung *operating system*, tetapi harusnya cuk
 
 3. Setelah itu, muncul laman seperti berikut. Tekan "base".
 
-    ![](static/download_r_windows_03.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_windows_03.png)
 
 4. Di laman berikut, akan muncul versi R terbaru yang tersedia. Tekan *tautan* "Download R-... for Windows" tersebut untuk memulai *download*.
 
-    ![](static/download_r_windows_04.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_windows_04.png)
 
 (Lakukan instalasi dengan membuka *file* tersebut dan menyetujui segalanya.)
 
@@ -122,7 +122,7 @@ Langkah ketiga dan seterusnya tergantung *operating system*, tetapi harusnya cuk
 
 3. Setelah itu, muncul laman seperti berikut. *Scroll* ke bawah sedikit, tersedia beberapa pilihan versi R yang bisa di-*download*, tergantung versi macOS yang sedang digunakan.
 
-    ![](static/download_r_mac_03.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_mac_03.png)
 
     Pada gambar di atas, versi R terbaru yang tersedia adalah R-4.4.1 untuk versi minimum macOS 11. Tersedia dua tautan untuk men-*download* versi R tersebut, yaitu
 
@@ -138,51 +138,51 @@ Langkah ketiga dan seterusnya tergantung *operating system*, tetapi harusnya cuk
 
 4. Setelah memilih dan menekan tautan tersebut, R akan mulai ter-*download*. Setelah selesai, bukalah *file* `.pkg` tersebut. Akan muncul tampilan seperti berikut. Tekan "Continue".
 
-    ![](static/download_r_mac_04.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_mac_04.png)
 
 5. Kemudian, ada sedikit penjelasan tentang versi yang sedang diinstal, seperti berikut. Tekan "Continue".
 
-    ![](static/download_r_mac_05.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_mac_05.png)
 
 6. Ada sedikit himbauan tentang lisensi yang digunakan oleh R, yaitu GNU GPL, seperti berikut. Intinya, *software* ini bebas digunakan dan disebarkan secara gratis. Tekan "Continue".
 
-    ![](static/download_r_mac_06.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_mac_06.png)
 
 7. Muncul semacam permintaan konfirmasi terkait persetujuan lisensi, seperti berikut. Setujuilah dengan menekan "Agree".
 
-    ![](static/download_r_mac_07.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_mac_07.png)
 
 8. Ada konfirmasi tentang tempat men-*download* dan *storage* yang dibutuhkan. Tekan "Continue".
 
-    ![](static/download_r_mac_08.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_mac_08.png)
 
 9. Ada konfirmasi sekali lagi sebelum benar-benar memulai instalasi. Setelah yakin, tekan "Continue".
 
-    ![](static/download_r_mac_09.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_mac_09.png)
 
 10. Bisa saja muncul konfirmasi sekali lagi, seperti berikut, kali ini membutuhkan *password* untuk *laptop* yang digunakan. Masukkan, lalu tekan "Install Software". Kalau *laptop* yang digunakan sebenarnya tidak terpasang *password*, langsung tekan "Install Software" tanpa mengetik apapun.
 
-    ![](static/download_r_mac_10.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_mac_10.png)
 
 11. Instalasi akan berjalan selama sekitar beberapa menit, dengan tampilan seperti berikut. Harap ditunggu, boleh sambil melakukan hal lain.
 
-    ![](static/download_r_mac_11.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_mac_11.png)
 
 12. Setelah instalasi selesai, tampilan akan seperti berikut. Tekan "Close".
 
-    ![](static/download_r_mac_12.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_mac_12.png)
 
 13. Sebelum benar-benar menutupnya, ada konfirmasi apakah *installer* yang telah di-*download* sebelumnya itu ingin tetap disimpan atau dihapus. Pilihan ini terserah, tetapi sangat dipersilakan untuk menghapus, karena R akan tetap bisa digunakan walaupun *installer*-nya sudah dihapus.
 
-    ![](static/download_r_mac_13.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_mac_13.png)
 
 14. Silakan buka *folder* "Applications", kemudian *scroll* ke bawah hingga menemukan R, untuk membuka R.
 
-    ![](static/download_r_mac_14.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_mac_14.png)
 
 15. Tampilan R setelah dibuka akan seperti berikut. Perintah-perintah bahasa R sudah bisa diketik dan dijalankan.
 
-    ![](static/download_r_mac_15.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_r_mac_15.png)
 
     Daripada langsung menggunakan R, sebaiknya gunakan RStudio (yang perlu diinstal secara terpisah) untuk memperoleh tampilan yang lebih nyaman digunakan.
 
@@ -190,13 +190,13 @@ Langkah ketiga dan seterusnya tergantung *operating system*, tetapi harusnya cuk
 
 1. Kunjungi tautan <https://posit.co/download/rstudio-desktop/> (atau coba *searching* "RStudio Desktop" dan pencet *website* pertama yang muncul). Isinya akan seperti berikut, tergantung *operating system* yang sedang digunakan:
 
-    ![](static/download_rstudio_01.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_rstudio_01.png)
 
     Tekan tombol "Download" di sebelah kanan, apabila memenuhi kriteria versi *operating system* yang digunakan.
     
     Apabila tidak memenuhi, kunjungi <https://dailies.rstudio.com/rstudio/> dan carilah versi RStudio yang kompatibel dengan versi *operating system* yang digunakan. Tampilan *website* tersebut seperti berikut.
 
-    ![](static/link_dailies_rstudio.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/link_dailies_rstudio.png)
 
 Langkah kedua dan seterusnya tergantung *operating system*.
 
@@ -204,31 +204,31 @@ Langkah kedua dan seterusnya tergantung *operating system*.
 
 2. Bukalah *file* yang telah di-*download*. Akan muncul tampilan seperti berikut.
 
-    ![](static/download_rstudio_mac_02.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_rstudio_mac_02.png)
 
 3. Tarik aplikasi RStudio menuju *folder* Applications, seperti berikut, lalu lepas.
 
-    ![](static/download_rstudio_mac_03.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_rstudio_mac_03.png)
 
 4. Tunggulah sebentar, karena aplikasi RStudio sedang dipasang di Mac yang sedang digunakan, degnan munculnya tampilan *loading* seperti berikut.
 
-    ![](static/download_rstudio_mac_04.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_rstudio_mac_04.png)
 
 5. Apabila tampilan tersebut hilang, RStudio sudah selesai terpasang. Silakan buka *folder* "Applications", kemudian *scroll* ke bawah hingga menemukan RStudio, untuk membuka RStudio.
 
-    ![](static/download_rstudio_mac_05.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_rstudio_mac_05.png)
 
 6. Setelah membuka, akan ada tampilan *loading* seperti berikut. Harap ditunggu, boleh sambil melakukan hal lain.
 
-    ![](static/download_rstudio_mac_06.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_rstudio_mac_06.png)
 
 7. Setelah *loading* selesai, akan muncul tampilan seperti ini, untuk memastikan bahwa RStudio--yang barusan di-*download* dari internet--ingin dibuka. Konfirmasikan dengan menekan "Open".
 
-    ![](static/download_rstudio_mac_07.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_rstudio_mac_07.png)
 
 8. RStudio akan terbuka dengan tampilan seperti berikut. Selamat menjalani praktikum!
 
-    ![](static/download_rstudio_mac_08.png)
+    ![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/download_rstudio_mac_08.png)
 
 
 # Pengenalan R
@@ -305,7 +305,7 @@ banyakbuah
 ___
 Variabel yang telah terdefinisi dapat dilihat pada environment (sebelah kanan script) 
 
-![](static\environment.jpg)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/environment.jpg)
 
 atau menggunakan syntax berikut
 

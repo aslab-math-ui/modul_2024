@@ -11,7 +11,7 @@ Kembali ke [Pengantar Sains Data](./psd2024.qmd)
 
 # Korelasi dan Regresi Linear di Excel
 
-Silakan unduh *worksheet* berikut: [Worksheet Pertemuan 10](./worksheet_pertemuan10.xlsx)
+Silakan unduh *worksheet* berikut: [Worksheet Pertemuan 10](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/datasets/worksheet_pertemuan10.xlsx)
 
 # Korelasi dan Regresi Linear di R
 
@@ -224,31 +224,31 @@ Untungnya, Quarto sudah tersedia di RStudio versi terbaru (sejak v2022.7) dan ju
 
 Buat terlebih dahulu suatu dokumen Quarto baru, yaitu *file* `.qmd`, seperti berikut:
 
-![](./static/quarto_01.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/quarto_01.png)
 
-![](./static/quarto_02.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/quarto_02.png)
 
 Kalian bisa memberi judul, atau sementara dibiarkan saja `Untitled`. Biarkan juga terpilih opsi `HTML`.
 
 Setelah terbuat, akan muncul tampilan seperti berikut:
 
-![](./static/quarto_03.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/quarto_03.png)
 
 Kalian bisa mengubah pilihan "Visual" menjadi pilihan "Source" (yaitu kode mentah):
 
-![](./static/quarto_04.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/quarto_04.png)
 
 Kalian juga bisa menghapus baris `editor: visual` agar *file* `.qmd` akan terbuka di tampilan *Source* secara *default*.
 
-![](./static/quarto_05.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/quarto_05.png)
 
 Coba tekan tombol **Render**. Akan muncul laman seperti berikut:
 
-![](./static/quarto_06.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/quarto_06.png)
 
 Perhatikan juga, di sebelah *file* `.qmd` di folder yang menyimpannya, ada *file* HTML yang bisa di-klik-kanan untuk dibuka:
 
-![](./static/quarto_07.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/quarto_07.png)
 
 Sekarang coba *run*:
 
@@ -258,7 +258,7 @@ install.packages("quarto")
 
 Seperti berikut:
 
-![](./static/quarto_08.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/quarto_08.png)
 
 Lalu:
 
@@ -272,7 +272,7 @@ library("quarto")
 quarto_render("Untitled.qmd")
 ```
 
-![](./static/quarto_09.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/quarto_09.png)
 
 Kita juga bisa *render* ke format lainnya.
 
@@ -280,15 +280,15 @@ Kita juga bisa *render* ke format lainnya.
 
 Ubah bagian "format" seperti berikut:
 
-![](./static/quarto_10.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/quarto_10.png)
 
 Sekarang tersedia dua pilihan *render*:
 
-![](./static/quarto_11.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/quarto_11.png)
 
 Hasil *render* ke format Microsoft Word tampak seperti berikut:
 
-![](./static/quarto_12.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/static/quarto_12.png)
 
 ## Render ke `.pdf`
 

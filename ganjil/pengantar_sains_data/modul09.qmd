@@ -431,4 +431,4 @@ Karena *p-value* = 0.0003345 \< $\alpha$, maka hasil uji berada di dalam daerah 
 
 Silakan unduh worksheet berikut untuk melakukan uji hipotesis yang telah kita bahas di Microsoft Excel .
 
-[Worksheet Pertemuan 9](./worksheet_pertemuan9.xlsx)
+[Worksheet Pertemuan 9](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/datasets/worksheet_pertemuan9.xlsx)

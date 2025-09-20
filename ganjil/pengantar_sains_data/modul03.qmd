@@ -13,9 +13,9 @@ Untuk pertemuan kali ini, kita akan mulai membahas lebih lanjut tentang pengguna
 
 *Dataset* "Iris" yang digunakan di modul ini bisa langsung diakses melalui R, atau bisa juga diunduh:
 
-* [Iris.csv](./Iris.csv)
+* [Iris.csv](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/datasets/Iris.csv)
 
-* [Iris.xlsx](./Iris.xlsx)
+* [Iris.xlsx](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/datasets/Iris.xlsx)
 
 Kebetulan, materi modul kali ini adalah revisi dari [modul PSD tahun lalu](../../../2023/ganjil/pengantar_sains_data/Pekan%201/modul1.qmd). Silakan intip kalau mau :)
 
@@ -177,9 +177,9 @@ Tentunya, data yang dihadapi oleh pengguna R pada umumnya tidak akan *built-in*,
 
 Untuk belajar cara *import* data, kebetulan *dataset* `iris` juga tersedia dalam *format* `.csv` dan juga `.xlsx` yang bisa kalian unduh:
 
-* [Iris.csv](./Iris.csv)
+* [Iris.csv](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/datasets/Iris.csv)
 
-* [Iris.xlsx](./Iris.xlsx)
+* [Iris.xlsx](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/datasets/Iris.xlsx)
 
 ::: {.callout-note}
 ## Tentang *format* CSV
