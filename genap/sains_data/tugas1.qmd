@@ -58,7 +58,7 @@ Tugas 1 ini terdiri dari soal a-j.
 
 Ada dataset penjualan mobil, `Car_sales.csv`, yang bisa di-*download* dari salah satu sumber berikut:
 
-- [Direct link (langsung dari GitHub Pages ini)](./Car_sales.csv)
+- [Direct link (langsung dari GitHub Pages ini)](https://raw.githubusercontent.com/aslab-math-ui/asset/main/sains_data/datasets/Car_sales.csv)
 
 - Kaggle: <https://www.kaggle.com/datasets/gagandeep16/car-sales>
 

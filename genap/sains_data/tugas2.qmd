@@ -58,7 +58,7 @@ Tugas 2 ini terdiri dari soal a-e.
 
 Ada dataset `water_potability.csv` yang mendata kualitas air di ribuan tempat (satu baris per tempat) dan menentukan apakah air tersebut layak diminum *(potable),* dengan nilai 1 (satu) jika layak dan nilai 0 (nol) jika tidak layak. Dataset ini bisa di-*download* dari salah satu sumber berikut:
 
-- [Direct link (langsung dari GitHub Pages ini)](./water_potability.csv)
+- [Direct link (langsung dari GitHub Pages ini)](https://raw.githubusercontent.com/aslab-math-ui/asset/main/sains_data/datasets/water_potability.csv)
 
 - Kaggle: <https://www.kaggle.com/datasets/adityakadiwal/water-potability>
 
